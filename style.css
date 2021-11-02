@@ -21,15 +21,20 @@ body{
     animation: change 10s ease-in-out infinite;
 }
 
+.display1{
+    position: relative;
+}
 h1{
     font-size: 5rem;
     text-transform: uppercase;
     letter-spacing: 2px;
     border: 3px solid #fff;
-    position: absolute;
-    left: 25%;
+    left: 50%;
     transform: translate(-50%, - 50%);
     padding: 5rem 10rem;
+}
+.display2{
+    position: relative;
 }
 h2{
     font-size: 5rem;
