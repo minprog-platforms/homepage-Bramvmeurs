@@ -22,7 +22,7 @@ body{
 }
 
 .display1{
-    position: static;
+    display: block;
 }
 h1{
     font-size: 5rem;
@@ -34,7 +34,7 @@ h1{
     padding: 5rem 10rem;
 }
 .display2{
-    position: static;
+    display: block;
 }
 h2{
     font-size: 5rem;
