@@ -1,6 +1,6 @@
 # Website Name
 
-Link naar Homepage: https://github.com/minprog-platforms/homepage-Bramvmeurs
+Link naar site: file://wsl%24/Ubuntu/home/bramvmeurs/project/homepage/index.html
 
 Ik heb een persoonlijke website gemaakt met informatie over mijzelf. Je kunt verschillende pagina's bekijken over, mijn hobbies, familie, en fav boeken en films. 
 Ik heb voor de achtergrond een linear-gradient animatie gemaaktin mijn css file (style.css). Verder heb ik voor de interesses.html bootstrap gebruikt om een custom tabel te maken door gebruik te maken van bootstrap's grid-indeling. 
